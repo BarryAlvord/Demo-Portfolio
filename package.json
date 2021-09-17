@@ -1,0 +1,24 @@
+{
+    "name": "bibi_port",
+    "version": "1.0.0",
+    "description": "none",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "lite": "lite-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BarryAlvord/Portfolio.git"
+    },
+    "author": "bibi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BarryAlvord/Portfolio/issues"
+    },
+    "homepage": "https://github.com/BarryAlvord/Portfolio#readme",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
