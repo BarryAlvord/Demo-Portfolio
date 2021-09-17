@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
     //Start up//
     $("#side_elements").hide()
 
