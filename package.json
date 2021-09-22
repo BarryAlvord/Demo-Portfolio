@@ -19,6 +19,7 @@
     },
     "homepage": "https://github.com/BarryAlvord/Portfolio#readme",
     "devDependencies": {
+        "ansi-regex": ">=6.0.1"
         "axios": ">=0.21.2"
         "lite-server": "^2.6.1"
     }
